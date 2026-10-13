@@ -1,6 +1,6 @@
 # Sanjay Kattam
 
-### Data Science | Software Engineering | Machine Learning
+###  Artificial Intelligence | Data Science | Software Engineering | Machine Learning
 
 I'm currently pursuing an **MSc in Data Science with Placement Year at the University of Greenwich, UK**. I'm passionate about building practical software, developing data-driven solutions, and applying machine learning to solve real-world problems.
 
